@@ -1,1 +1,1 @@
-# intro_ml_endterm
+Endterm Project (Insurance Fraud Detection)
